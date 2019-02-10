@@ -14,7 +14,7 @@ Beroende på vilken plattform du använder behöver du lite olika saker.
 * Installera enligt ovan.
 
 ### Windows utan Linux VM:
-* Cygwin
+* Cygwin, installerat i `C:\cygwin64` och `C:\cygwin64\bin` i din `PATH`
 * Git, konfigurerat för dig
 * Java 8
 * Kommandot ”bc”, från kategorin Math, installerat i Cygwin.
